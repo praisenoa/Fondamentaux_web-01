@@ -21,6 +21,8 @@ https://www.techopedia.com/definition/3427/shell
 
 https://www.epai-ict.ch/teachers/frossardj/m122/capsules/m122-c1.html
 
+https://fr.wikipedia.org/wiki/Z_Shell
+
 
 ## Bourne Shell :
 https://fr.wikipedia.org/wiki/Bourne_shell
