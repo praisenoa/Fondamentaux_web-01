@@ -2,5 +2,5 @@
 
 Maxime Charpentier : https://github.com/maxime-charpentier
 
-Laura Cherarad :
+Laura Cherarad :) :
 https://github.com/praisenoa
